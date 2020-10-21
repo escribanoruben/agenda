@@ -18,5 +18,7 @@
   "Save": "Save",
   "Name is required": "Name is required",
   "Phone number is required": "Phone number is required",
-  "Name too short": "Name too short"
+  "Name too short": "Name too short",
+  "Go to contact list": "Go to contact list",
+  "Refresh": "Refresh"
 }

@@ -18,5 +18,7 @@
   "Save": "Guardar",
   "Name is required": "El nombre el obligatorio",
   "Phone number is required": "El número de teléfono el obligatorio",
-  "Name too short": "Nombre demasiado corto"
+  "Name too short": "Nombre demasiado corto",
+  "Go to contact list": "Ir a la lista de contactos",
+  "Refresh": "Actualizar"
 }
